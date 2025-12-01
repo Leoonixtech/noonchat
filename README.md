@@ -2,6 +2,7 @@
 The offical repo of NoonChat, a free Open-source chatting app.
 
 ✔ What NoonChat is?
+
 an open-source end-to-end encrypted web based chatting app
 
 ✔ Features
