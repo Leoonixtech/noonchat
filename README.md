@@ -24,24 +24,21 @@ to, or expand.
 
 ### Advanced (future)
 
--   Plugins & extensions
+-   extensions 
 -   Bot API
 -   Self-hosted server mode
 -   Mobile-optimized UI
 
-## 🛠️ Tech Stack (Proposed)
+## 🛠️ Tech Stack
 
-**Frontend:** - React / Next.js - TailwindCSS - WebSockets / Socket.IO
-client
-
-**Backend:** - Node.js (Express or NestJS) - Socket.IO or native WS -
-PostgreSQL (supabase, prisma) - Redis (presence, caching)
+**Frontend:** - Not specified yet
+**Backend:** - Not specified yet
 
 ## 📦 Project Structure (Planned)
 
     /client     → React frontend
     /server     → Node backend (API + WebSocket)
-    /docs       → Design, architecture, planning
+    /docs       → Design, architecture, assets
 
 ## 🤝 Contributing
 
