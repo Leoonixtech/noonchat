@@ -54,7 +54,7 @@ Or simply open an issue/pull request.
 
 ## 🧭 Roadmap
 
--   [-] Set up repo structure
+-   [✔] Set up repo structure
 -   [ ] Build basic WebSocket server
 -   [ ] Create login system
 -   [ ] Implement real-time chat
